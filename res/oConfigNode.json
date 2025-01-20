@@ -1,6 +1,1 @@
-{
-    "defaultHost": "community.olympe.io",
-    "bus.vhost": "community",
-    "hc.app": "sc.runtime",
-    "sc.app": "019483710b025bf724ab"
-}
+{}
