@@ -89,3 +89,4 @@ routes:
   "https://www.{default}":
     type: redirect
     to: "https://{default}/"
+
